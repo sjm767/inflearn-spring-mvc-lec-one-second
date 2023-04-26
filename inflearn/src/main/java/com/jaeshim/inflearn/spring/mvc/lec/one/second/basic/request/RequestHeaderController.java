@@ -1,4 +1,4 @@
-package com.jaeshim.inflearn.spring.mvc.lec.one.second.basic.requestmapping;
+package com.jaeshim.inflearn.spring.mvc.lec.one.second.basic.request;
 
 import java.util.Locale;
 import javax.servlet.http.HttpServletRequest;
